@@ -1,0 +1,15 @@
+position: static;
+width: 535px;
+height: 468px;
+left: 0px;
+top: 2865.16px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;

@@ -1,0 +1,14 @@
+position: static;
+width: 1137px;
+height: 610px;
+left: 0px;
+top: 3715.16px;
+
+background: #E0E8E3;
+
+/* Inside auto layout */
+
+flex: none;
+order: 6;
+flex-grow: 0;
+margin: 0px 0px;
